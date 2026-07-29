@@ -11,33 +11,17 @@
     "name": "rolldown-runtime"
   },
   "app/page.tsx": {
-    "file": "assets/page-DDxTMjLP.js",
+    "file": "assets/page-Bod8XBMT.js",
     "name": "page",
     "src": "app/page.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-S-ySWqyJ.js",
-      "virtual:vinext-app-browser-entry",
       "_framework-CXnKph_e.js"
-    ],
-    "dynamicImports": [
-      "node_modules/leaflet/dist/leaflet-src.js"
-    ],
-    "css": [
-      "assets/page-B9q7uW7B.css"
-    ]
-  },
-  "node_modules/leaflet/dist/leaflet-src.js": {
-    "file": "assets/leaflet-src-BbiSgxSs.js",
-    "name": "leaflet-src",
-    "src": "node_modules/leaflet/dist/leaflet-src.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-S-ySWqyJ.js"
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "assets/layout-segment-context-B889p5MW.js",
+    "file": "assets/layout-segment-context-DpUbdj-e.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -48,7 +32,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "assets/index-CAO9Kd7j.js",
+    "file": "assets/index-lfZjXg5j.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
